@@ -1,6 +1,7 @@
 meme_dict = {
             "CRINGE": "Sesuatu yang sangat aneh atau memalukan",
             "LOL": "Tanggapan umum terhadap sesuatu yang lucu",
+            "EPIC": "Sesuatu hal yang sangat keren"
             }
 
 word = input("Ketik kata yang tidak Kamu mengerti (gunakan huruf kapital semua!): ") #menginput kata yang diinginkan
